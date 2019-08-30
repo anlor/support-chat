@@ -4,7 +4,7 @@
       <div class="Message-text">
         {{ message.text }}
       </div>
-      <ErrorMessages :errorMessages="message.errors" :showPopup="true" />
+      <ErrorMessages :errorMessages="message.errors" />
     </div>
     <button @click="remove(message)" class="Message-remove">
       <span></span>
