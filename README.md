@@ -1,4 +1,4 @@
-# notepad
+# Support Chat
 
 ## Project setup
 ```
