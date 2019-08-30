@@ -116,31 +116,6 @@ export default {
   height: 60px
   border-top: solid 1px $border-color
 
-.ChatModalWindow-errors
-  background-color: $white
-  position: absolute
-  bottom: 75px
-  position: absolute
-  bottom: 75px
-  width: calc(100% - 30px)
-  margin: 0 auto
-  left: 0
-  right: 0
-  box-shadow: 0px 1px 7px 1px rgba(148,149,150,0.1)
-  padding: 15px
-  font-size: 12px
-  border-radius: 5px
-  color: $error
-  font-weight: bold
-  line-height: 1.3
-
-  span
-    display: block
-    margin-bottom: 15px
-
-    &:last-child
-      margin-bottom: 0px
-
 .ChatModalWindow-input
   flex: 1
   font-size: 14px
